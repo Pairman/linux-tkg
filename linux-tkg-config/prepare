@@ -12,6 +12,7 @@ _kernel_git_remotes=(
   ["googlesource.com"]="https://kernel.googlesource.com/pub/scm/linux/kernel/git/stable/linux-stable"
   ["github.com"]="https://github.com/gregkh/linux.git"
   ["torvalds"]="https://github.com/torvalds/linux.git"
+  ["ustc"]="https://mirrors.ustc.edu.cn/linux.git"
 )
 
 _git_remote_names=( "${!_kernel_git_remotes[@]}" )
