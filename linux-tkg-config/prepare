@@ -11,6 +11,7 @@ _kernel_git_remotes=(
   ["kernel.org"]="https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git"
   ["googlesource.com"]="https://kernel.googlesource.com/pub/scm/linux/kernel/git/stable/linux-stable"
   ["github.com"]="https://github.com/gregkh/linux.git"
+  ["ustc"]="https://mirrors.ustc.edu.cn/linux.git"
   ["torvalds"]="https://github.com/torvalds/linux.git"
 )
 
